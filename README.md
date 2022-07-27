@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sharanya L
 - 👀 I’m interested in Full stack developement.
 - I have completed my Bachelor's in computer science.
-- 🌱 I’m currently working as software engineer in Epsilo
+- 🌱 I’m currently working as software engineer in Epsilon.
 -.
 -
 
